@@ -71,7 +71,11 @@ a:hover {
     width: 240px;
     float: right;
 }
-
+.post{
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
 #footer {
     clear: both;
     text-align: center;
