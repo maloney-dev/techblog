@@ -71,3 +71,7 @@ a:hover {
     width: 240px
     float: right;
 }
+
+#footer {
+    background-color: green;
+}
