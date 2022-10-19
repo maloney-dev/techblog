@@ -1,0 +1,50 @@
+/* Limpar formatações padrão */
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+    background-color: #e6e6e6;
+}
+h1 {
+    color: #4e4e4e;
+    font-size: 2.5em;
+    padding: 15px;
+    margin: 15px;
+}
+
+.branco {
+    color: #fff;
+}
+/* layout */
+
+#area-header {
+    background-color: #f7b600;
+    padding: 15px;
+    text-align: center;
+}
+
+/* formatação menu */
+a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    
+}
+
+a:hover {
+    background-color: #fff;
+    color: #f7b600;
+    padding: 10px;
+}
+
+
+/* nav links */
+#menu-principal {
+    display: inline;
+}
+
