@@ -8,7 +8,7 @@
 body{
     font-size: 1em;
     font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
-    background-color: #e6e6e6;
+    background-color: #fff;
 }
 h1 {
     color: #4e4e4e;
@@ -57,5 +57,4 @@ a:hover {
     width: 920px;
     height: 1080px;
     margin: 0 auto;
-    
-}
+    }
