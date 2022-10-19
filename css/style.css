@@ -41,14 +41,14 @@ h2{
 }
 
 /* formatação menu */
-a{
+#area-header a:link,#area-header a:visited{
     text-decoration: none;
     color: #fff;
     padding: 10px 12px;
     
 }
 
-a:hover {
+#area-header a:hover {
     background-color: #fff;
     color: #f7b600;
     padding: 10px;
