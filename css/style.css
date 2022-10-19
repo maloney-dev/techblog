@@ -58,10 +58,16 @@ a:hover {
     height: 1080px;
     margin: 0 auto;
     }
+
+#content-area, #sidebar-area {
+    background-color: orange;
+}
 #content-area {
     width: 660px;
+    float: left;
 }
 
 #sidebar-area {
     width: 240px
+    float: right;
 }
