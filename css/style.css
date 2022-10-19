@@ -21,6 +21,12 @@ h2{
     color:#f7b600;
 }
 
+h3 {
+    color: #565656;
+    background: #ccc;
+    padding: 5px;
+    }
+
 a:link, a:visited {
     text-decoration: none;
     color: #f7b600;
@@ -45,8 +51,9 @@ a:hover {
 
 #area-header {
     background-color: #f7b600;
+    /* width: 920px; */
     padding: 15px;
-    text-align: center;
+    text-align: center;    
 }
 
 /* formatação menu */
@@ -75,15 +82,11 @@ a:hover {
 
 #principal-area {
     background-color: #fff;
-    width: 920px;
-    
+    width: 920px;    
     margin: 0 auto;
     padding: 15px;
     }
 
-#sidebar-area {
-    background-color: orange;
-}
 #content-area {
     width: 660px;
     float: left;
@@ -91,10 +94,21 @@ a:hover {
 }
 
 .sidebar-area {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
     width: 240px;
     float: right;
     
 }
+
+.sidebar-text {
+    font-size: 0.8em;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #565656;
+}
+
 .post{
     padding: 20px;
     margin-bottom: 20px;
